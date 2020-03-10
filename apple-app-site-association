@@ -4,7 +4,7 @@
     "details": [
     {
       "appID": "M89F7ZJS87.com.palarum.trialEpic",
-      "paths": ["*"]
+      "paths": ["*", "/"]
     }]
   }
 }
